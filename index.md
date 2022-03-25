@@ -1,9 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
+MySelf Mohammad Mahmudul Hoque and here below the form
+Please Fill up
 
-You can use the [editor on GitHub](https://github.com/MohammadMahmudulHoque/softdev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-### Markdown
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form>
 
